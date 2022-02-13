@@ -5,6 +5,11 @@
       "ProjectGuid": "8a3ec084-fad6-4065-a440-e1e8abb6dab2",
       "DisplayName": "dotnet-learning",
       "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 1

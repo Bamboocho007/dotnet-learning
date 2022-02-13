@@ -24,3 +24,9 @@ D:\c_sharp\dotnet-learning\dontnet-learning\obj\Debug\net6.0\dotnet-learning.dll
 D:\c_sharp\dotnet-learning\dontnet-learning\obj\Debug\net6.0\ref\dotnet-learning.dll
 D:\c_sharp\dotnet-learning\dontnet-learning\obj\Debug\net6.0\dotnet-learning.pdb
 D:\c_sharp\dotnet-learning\dontnet-learning\obj\Debug\net6.0\dotnet-learning.genruntimeconfig.cache
+D:\c_sharp\dotnet-learning\dontnet-learning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\c_sharp\dotnet-learning\dontnet-learning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\c_sharp\dotnet-learning\dontnet-learning\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\c_sharp\dotnet-learning\dontnet-learning\bin\Debug\net6.0\Npgsql.dll
+D:\c_sharp\dotnet-learning\dontnet-learning\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\c_sharp\dotnet-learning\dontnet-learning\obj\Debug\net6.0\dotnet-learning.csproj.AssemblyReference.cache
